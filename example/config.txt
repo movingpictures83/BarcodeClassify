@@ -1,0 +1,2 @@
+Prefix plugins/BarcodeClassify/example/
+Plugin BarcodeClassify inputfile parameters.txt outputfile ./
